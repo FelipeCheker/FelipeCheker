@@ -1,9 +1,6 @@
-### Hola soy Felipe 👋
+### Hello, I'm Felipe! 👋
+Currently, I'm studying Systems Engineering at ORT Uruguay. I also work as a bot developer in the field of RPA.
 
-Actualmente estoy estudiando la carrera de Ingenieria en sistemas en la ORT Uruguay. Tambien estoy trabajando como desarrollador de bots en el area de RPA.  
-
-- 🌱 Aprendiendo REACT 
-- 🏎️ Soy aficionado a los autos, JDM... 
-- 📫 How to reach me: in/felipe-cheker-841b00210
-  
-
+🌱 Studying Systems Engineering
+🏎️ I'm passionate about cars, especially JDM...
+📫 How to reach me: LinkedIn
